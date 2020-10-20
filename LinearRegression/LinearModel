@@ -1,0 +1,3 @@
+# Standard linear model class
+
+class lm():
